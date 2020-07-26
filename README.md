@@ -9,7 +9,7 @@
   cd whats<br>
   python2 whats.py<br>
   <br>
-<img src="https://github.com/gellmoxer/pic/blob/master/whats.JPG" width="120px" alt="screenshot">
+<img src="https://github.com/gellmoxer/pic/blob/master/whats.JPG" width="120px" alt="Captura de tela">
 
 <br>
 ## Use Metasploit, SSH
